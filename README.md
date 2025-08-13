@@ -37,8 +37,8 @@ This repository demonstrates different approaches to feature transformation, dat
 | `placement.csv` | Student placement data |
 | `titanic.csv` | Famous Titanic survival dataset |
 | `train.csv` | General training dataset |
-| `traink.csv` | Training dataset variant K |
-| `trains.csv` | Training dataset variant S |
+| `traink.csv` | Training dataset with some missing values |
+| `trains.csv` | Training dataset variant outliers |
 | `weight-height.csv` | Weight and height measurements |
 
 ## 🔧 Features Covered
